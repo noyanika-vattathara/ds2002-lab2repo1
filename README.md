@@ -1,2 +1,1 @@
-# ds2002-lab2repo1
-Lab 2 Repo for Part 1: Git/GitHub Basics
+My name is Noya Vattathara. I am editing this GitHub repository for Lab 2 Part 1.
